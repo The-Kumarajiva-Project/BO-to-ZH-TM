@@ -1,2 +1,3 @@
-# tm
-zh-bo TMs of sutras
+# Translation Memories
+
+Tibetan to Chinese TMs (Translation Memories)
