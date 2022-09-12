@@ -11,7 +11,7 @@ This folder contains source files of in multiple formats.
 - T4090: 俱舍論, ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།, 3 Chinese translations
 
 ### ongoing/
-TM files in the making in Intertext xml format.
+TM files in the making in Intertext xml format. Check the [TM Creation](https://github.com/orgs/The-Kumarajiva-Project/projects/1) project to follow the progress. 
 
 
 ### tms/
