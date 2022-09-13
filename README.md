@@ -1,6 +1,6 @@
 # Translation Memories 翻譯記憶庫
 
-[![](https://img.icons8.com/external-flaticons-flat-flat-icons/50/external-kanban-project-management-flaticons-flat-flat-icons.png) TM Creation](https://github.com/orgs/The-Kumarajiva-Project/projects/1)
+[![](https://img.icons8.com/external-flaticons-flat-flat-icons/50/external-kanban-project-management-flaticons-flat-flat-icons.png) Project](https://github.com/orgs/The-Kumarajiva-Project/projects/1)
 
 Tibetan to Chinese TMs (Translation Memories)
 
