@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://avatars.githubusercontent.com/u/113319833?s=400&u=92aa22ef97dfb673e5dd10928476a26e9f7610b7&v=4" alt="Kumarajiva" width="150"></a>
+  <a href=""><img src="https://avatars.githubusercontent.com/u/113319833?s=400&u=92aa22ef97dfb673e5dd10928476a26e9f7610b7&v=4" alt="Kumarajiva" width="130"></a>
   <br>
   Translation Memories
   <br>
