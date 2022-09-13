@@ -9,8 +9,11 @@
 <p align="center">
   <a href="https://github.com/orgs/The-Kumarajiva-Project/projects/1">Project</a> •
   <a href="https://github.com/orgs/The-Kumarajiva-Project/discussions">Discussion</a> •
-  <a href="https://github.com/The-Kumarajiva-Project/BO-to-ZH-TM/wiki">User Guide</a>
+  <a href="https://github.com/The-Kumarajiva-Project/BO-to-ZH-TM/wiki">User Guide</a> •
+  <a href="https://github.com/The-Kumarajiva-Project/BO-to-ZH-TM/wiki/Catalog">Catalog</a>
 </p>
+
+
 
 ### Description
 This repository contains all the TM realted files of the Kumarajiva Project
