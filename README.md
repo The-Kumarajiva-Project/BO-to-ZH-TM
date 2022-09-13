@@ -1,8 +1,16 @@
-# Translation Memories 翻譯記憶庫
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://www.ymfz.org/wp-content/uploads/2019/06/logo.png" alt="Talos" width="350"></a>
+  <br>
+</h1>
 
-[![](https://img.icons8.com/color/44/goal--v1.png)](https://github.com/orgs/The-Kumarajiva-Project/projects/1) - - - [![](https://img.icons8.com/color/44/group-task.png)](https://github.com/orgs/The-Kumarajiva-Project/discussions)  - - -  [![](https://img.icons8.com/color/44/rules-book.png)](https://github.com/The-Kumarajiva-Project/BO-to-ZH-TM/wiki)
+<p align="center">
+  <a href="https://github.com/orgs/The-Kumarajiva-Project/projects/1">Project</a> •
+  <a href="https://github.com/orgs/The-Kumarajiva-Project/discussions">Discussion</a> •
+  <a href="https://github.com/The-Kumarajiva-Project/BO-to-ZH-TM/wiki">User Guide</a>
+</p>
 
-## Description
+## Translation Memories
 This repository contains all the TM realted files of the Kumarajiva Project
 
 ### sources/
