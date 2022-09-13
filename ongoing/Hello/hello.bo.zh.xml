@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <linkGrp toDoc='hello.zh.xml' fromDoc='hello.bo.xml'>
-<link type='1-1' xtargets='1:1;1:1' status='auto'/>
-<link type='1-1' xtargets='1:2;1:2' status='auto'/>
+<link type='0-1' xtargets=';1:1' status='man'/>
+<link type='2-1' xtargets='1:1 1:2;1:2' status='auto'/>
 </linkGrp>
