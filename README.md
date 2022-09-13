@@ -3,7 +3,7 @@
 [![](https://img.icons8.com/color/44/goal--v1.png)](https://github.com/orgs/The-Kumarajiva-Project/projects/1) - - - [![](https://img.icons8.com/color/44/group-task.png)](https://github.com/orgs/The-Kumarajiva-Project/discussions)  - - -  [![](https://img.icons8.com/color/44/rules-book.png)](https://github.com/The-Kumarajiva-Project/BO-to-ZH-TM/wiki)
 
 ## Description
-This is 
+This repository contains all the TM realted files of the Kumarajiva Project
 
 ### sources/
 This folder contains source files of in multiple formats. 
