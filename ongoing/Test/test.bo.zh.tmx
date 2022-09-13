@@ -6,7 +6,7 @@
 	<tuv xml:lang="zh"><seg>Empty document</seg></tuv>
 </tu>
 <tu><prop type="x-sentbreak">|#|</prop>
-	<tuv xml:lang="bo"><seg>Empty document</seg></tuv>
+	<tuv xml:lang="bo"><seg>Empty |#| document</seg></tuv>
 	<tuv xml:lang="zh"><seg>template?</seg></tuv>
 </tu>
 </body>
