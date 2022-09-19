@@ -1,9 +1,0 @@
-<tmx version="1.4b">
-	<header creationtool="InterText" creationtoolversion="1.0" datatype="PlainText" segtype="block" adminlang="en-us" srclang="bo" o-tmf="XML aligned text"></header>
-<body>
-<tu><prop type="x-sentbreak">|#|</prop>
-	<tuv xml:lang="bo"><seg>བཀྲ་ཤིས།</seg></tuv>
-	<tuv xml:lang="zh"><seg></seg></tuv>
-</tu>
-</body>
-</tmx>
